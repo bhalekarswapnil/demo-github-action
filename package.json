@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/bhalekarswapnil/demo-github-action/issues"
   },
+  "publishConfig": {
+    "@bhalekarswapnil:registry": "https://npm.pkg.github.com"
+  },
   "homepage": "https://github.com/bhalekarswapnil/demo-github-action#readme"
 }
