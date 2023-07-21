@@ -1,0 +1,19 @@
+{
+  "name": "demo-github-action",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhalekarswapnil/demo-github-action.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhalekarswapnil/demo-github-action/issues"
+  },
+  "homepage": "https://github.com/bhalekarswapnil/demo-github-action#readme"
+}
